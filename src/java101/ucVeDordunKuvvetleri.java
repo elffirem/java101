@@ -2,7 +2,7 @@ package java101;
 
 import java.util.Scanner;
 
-public class ikininKatlari {
+public class ucVeDordunKuvvetleri {
 
 	public static void main(String[] args) {
 		int n;
